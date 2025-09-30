@@ -1,11 +1,11 @@
 Please implement the following feature request:
 
-**Feature Request:** Use the right project key for subscribe dev.
+**Feature Request:** Using the correct API Key for subscribe dev and improving the app's landing page presentation.
 
 **Project Context:**
 - Repository: v-vibers/subscribedev-auth-app
-- Branch: feat/use-the-right-project-key-for-subscribe
-- Base Branch: feat/the-app-looks-very-basic-replace-everyth
+- Branch: feat/using-the-correct-api-key-for-subscribe
+- Base Branch: feat/use-the-right-project-key-for-subscribe
 - Requested by: Sebaa711
 
 **CRITICAL - Read Project Instructions First:**
