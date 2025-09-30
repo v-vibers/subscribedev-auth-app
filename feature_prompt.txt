@@ -1,11 +1,14 @@
 Please implement the following feature request:
 
-**Feature Request:** Add a dark mode, light mode toggle, the app colors will be monochromatic. Also, let's just make the app after the login screen an empty header, add the necessary information there like the credits, the theme button, the logout button with the profile, etc. Ensure it is responsive.
+**Feature Request:** The app looks very basic, replace everything for a component library to look more consistent, professional and beautiful, because right now everything look very plain and basic, no proper padding, etc.
+
+The credits are 100 right? Fix it because it says 25.
+Let's make the app be a chatgpt clone now.
 
 **Project Context:**
 - Repository: v-vibers/subscribedev-auth-app
-- Branch: feat/add-a-dark-mode-light-mode-toggle-the-ap
-- Base Branch: feat/initial-implementation
+- Branch: feat/the-app-looks-very-basic-replace-everyth
+- Base Branch: feat/add-a-dark-mode-light-mode-toggle-the-ap
 - Requested by: Sebaa711
 
 **CRITICAL - Read Project Instructions First:**
