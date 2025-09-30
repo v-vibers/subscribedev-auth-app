@@ -1,8 +1,9 @@
 import { useSubscribeDev } from '@subscribe.dev/react';
 import { SignInScreen } from './components/SignInScreen';
 import { AuthenticatedApp } from './components/AuthenticatedApp';
+import { ThemeProvider } from './contexts/ThemeContext';
 
-function App() {
+function AppContent() {
   const { isSignedIn, signIn } = useSubscribeDev();
 
   if (!isSignedIn) {
@@ -10,6 +11,14 @@ function App() {
   }
 
   return <AuthenticatedApp />;
+}
+
+function App() {
+  return (
+    <ThemeProvider>
+      <AppContent />
+    </ThemeProvider>
+  );
 }
 
 export default App
