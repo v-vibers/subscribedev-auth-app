@@ -1,14 +1,13 @@
 Please implement the following feature request:
 
-**Feature Request:** The app looks very basic, replace everything for a component library to look more consistent, professional and beautiful, because right now everything look very plain and basic, no proper padding, etc.
+**Feature Request:** You are not using the right project key for subscribe dev, fix that.
 
-The credits are 100 right? Fix it because it says 25.
-Let's make the app be a chatgpt clone now.
+Ensure to use openai/gpt-4o for the chat.
 
 **Project Context:**
 - Repository: v-vibers/subscribedev-auth-app
-- Branch: feat/the-app-looks-very-basic-replace-everyth
-- Base Branch: feat/add-a-dark-mode-light-mode-toggle-the-ap
+- Branch: feat/you-are-not-using-the-right-project-key
+- Base Branch: feat/the-app-looks-very-basic-replace-everyth
 - Requested by: Sebaa711
 
 **CRITICAL - Read Project Instructions First:**
