@@ -1,11 +1,13 @@
 Please implement the following feature request:
 
-**Feature Request:** Use the right project key for subscribe dev.
+**Feature Request:** You are not using our API key for subscribe dev, fix that.
+
+Make the landing page more proffesional, it looks very plain and boring, maybe add more transitions, animations, different layout and presentation, etc
 
 **Project Context:**
 - Repository: v-vibers/subscribedev-auth-app
-- Branch: feat/use-the-right-project-key-for-subscribe
-- Base Branch: feat/the-app-looks-very-basic-replace-everyth
+- Branch: feat/you-are-not-using-our-api-key-for-subscr
+- Base Branch: feat/use-the-right-project-key-for-subscribe
 - Requested by: Sebaa711
 
 **CRITICAL - Read Project Instructions First:**
